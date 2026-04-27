@@ -39,7 +39,8 @@ src/test/
 Tests run against a local Python mock server. Clone and start it before running tests:
 
 ```bash
-cd api-mock-server-for-testing-main
+git clone git@github.com:simranagrawal0928/api-mock-server.git
+cd api-mock-server
 python3 server.py
 ```
 
